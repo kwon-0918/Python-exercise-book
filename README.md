@@ -1,2 +1,9 @@
-# Python-exercise-book
-Python-exercise-book
+# 나의 Python 연습장
+
+Python를 배우려고 사용하는 연습장입니다. 
+
+## 무엇을 올리나요?
+
+1. 개인 작업물.
+2. 배운 간단한 코드들.
+3. 
