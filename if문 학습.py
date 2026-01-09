@@ -7,10 +7,10 @@ else:
     time = int(time)
 
     if time < 8:
-        print("괜춘")
+        print("ok")
     elif time == 9:
-        print("낫 배드")
+        print("not bad")
     else:
-        print("안 괜춘")
+        print("not dk")
 
 
