@@ -2,7 +2,7 @@
 time = input("시간 입력: ")
 
 if not time.isdigit():
-    print("몰루?")
+    print("???")
 else:
     time = int(time)
 
@@ -11,6 +11,6 @@ else:
     elif time == 9:
         print("not bad")
     else:
-        print("not dk")
+        print("not ok")
 
 
